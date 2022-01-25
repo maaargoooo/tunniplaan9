@@ -1,9 +1,9 @@
-﻿Tugiope Eesti keel 2 grupp - opetaja: Ojamäe Olesja B 234 
+﻿Tugiope Eesti keel 2 grupp - Opetaja: Ojamae Olesja B 234 
 Logistikateenused ja varude juhtimine - opetaja: Klimanskaja Inessa B 002 
 Matemaatika - opetaja: Voronova Nadezda B 133 
 Keel ja kirjandus - opetaja: Mihhailova Ljudmila B 221 
-Tugiõpe Matemaatika - opetaja: Voronova Nadezda B 133 
-Tugiõpe Keemia - opetaja: Pesetskaja Svetlana B 144 
+Tugiope Matemaatika - opetaja: Voronova Nadezda B 133 
+Tugiope Keemia - opetaja: Pesetskaja Svetlana B 144 
 Programmeerimise alused - opetaja: Oleinik Marina E 07
 Fuusika - opetaja: Voronova Nadezda B 133
 Tugiope Eesti keel 1 grupp - opetaja: Laaneväli-Toots Alina B 236
@@ -12,3 +12,5 @@ Kehaline Kasvatus - opetaja: Maksomiv Maksim Voimla A
 Rakendustarkvara ja arenduskeskkonna loomine - opetaja: Merkulova Irina E 10
 Eesti keel 2 grupp - opetaja: Ojamae Olesja B 234
 Inglise keel 2 grupp - opetaja: Borodina Olga B 227
+Ruhmajuhataja tund - opetaja: Laanevali-Toots Alina B 236
+Tugiope Eesti keel 1 grupp - opetaja: Laanevali-Toots Alina B 236
